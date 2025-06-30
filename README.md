@@ -31,7 +31,7 @@ cd qr-code-scanner-app
 Make sure you have **Python 3.8+** installed. Then install dependencies using pip:
 
 ```bash
-pip install customtkinter opencv-python qrcode pillow numpy
+pip install -r requirements.txt
 ```
 
 ---
